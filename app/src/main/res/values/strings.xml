@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+
+    <!-- MainActivity -->
+    <string name="version_str">Version %s</string>
+    <string name="coach_mark_title">\n\n\n\n\nAdd Task</string>
+    <string name="coach_mark_text">Let\'s add a task by pressing this button.</string>
+    <string name="snackbar_text">Completed task deleted.</string>
+
+    <!-- Main Menu -->
+    <string name="sign_out">Sign Out</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation Drawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_menu_today">Today\'s task</string>
+    <string name="nav_menu_important">Important task</string>
+
+    <!-- LoginActivity -->
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="label_please_sign_in">Please sign in.</string>
+    <string name="label_sign_in_google_account">You can sign in with the following account</string>
+
+    <!-- TaskEditActivity -->
+    <string name="title_activity_task_edit"></string>
+    <string name="task_title_hint">Title</string>
+    <string name="task_content_hint">Content</string>
+
+    <!-- Info Message -->
+
+    <!-- Error Message -->
+    <string name="auth_failed">Failed to login</string>
+
+    <!-- Strings related to login -->
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_network">Network Error.</string>
+    <string name="error_google_sign_in">Google Sign In failed.</string>
+
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
